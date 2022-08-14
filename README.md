@@ -11,4 +11,4 @@ $ cd A68_Assembler
 $ chmod +x install.sh
 $ ./install.sh
 ```
-The only trickery in the script is to remove any previous symlink to A18 before the new one is installed without throwing an error if one does not already exist.
+The only trickery in the script is to remove any previous symlink to A68 before the new one is installed without throwing an error if one does not already exist.
